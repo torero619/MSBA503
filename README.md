@@ -32,9 +32,9 @@ Sprint Points Breakdown
 
 ### Day 0 
 - Set groups (no more than 4)
+- Setup Kanban and invite team members (and Fred)
 - Agree on stand up time
 - Agree on rotation of facilitator
-- Setup Kanban
 - Determine Breakdown of tasks into tickets
 - Attempt Scope (what question are you trying to answer?)
 
