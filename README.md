@@ -40,6 +40,7 @@ Sprint Points Breakdown
 ### Basic Deliverables
 - Perform 10 stand ups
 - Perform a Retrospective and Steps for Sprint 6
+- Close Tickets
 
 ### Example Deliverables Goals
 * Automated Analysis pipeline
@@ -56,6 +57,7 @@ Sprint Points Breakdown
 ### Basic Deliverables
 * Perform 10 stand ups
 * Perform a Kickoff and Retrospective and Steps for Sprint 7
+* Close Tickets
 
 ## Sprint 7 (20 NOV - 29 NOV)
 
@@ -70,7 +72,7 @@ Sprint Points Breakdown
 
 ### Basic Deliverables
 - Perform 10 stand ups
-- Improve on Proof of Concept
+- Close Tickets
 - Amazon Style 6 pager
 
 ### Stretch Goals
