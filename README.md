@@ -50,7 +50,8 @@ Sprint Points Breakdown
 ### Datasets & Tooling
 * EDA using Power BI or Tableau
 * JHU Data or Open API
-* Data for Social Good class? 
+* Data for Social Good class?
+* Real work data?
 
 ## Sprint 6 (06 NOV - 15 NOV)
 
