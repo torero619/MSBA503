@@ -23,9 +23,9 @@ About this course
 
 Sprint Points Breakdown
 
-- Deliverable = +33pts
-- Attempt Stretch Goal1 = +3pts
-- Code Runs Stretch Goal1 = +3pts
+- Attendance = +25pts
+- Attempt Stretch Goal1 = +50pts
+- Code Runs Stretch Goal1 = +75pts
 - Attempt Stretch Goal2 = +3pts
 - Tickets = +50pts
 
