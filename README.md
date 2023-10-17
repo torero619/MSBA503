@@ -22,26 +22,26 @@ About this course
 ```
 
 Sprint Points Breakdown
-
 - Attendance = +25pts
-- Attempt Stretch Goal1 = +50pts
-- Code Runs Stretch Goal1 = +75pts
-- Attempt Stretch Goal2 = +3pts
+- Demo/Test Day = +75pts
+- Kickoff = +50pts
+- Retrospective = +50pts
 - Tickets = +50pts
 
 ## Sprint 5 (23 OCT - 01 NOV)
 
-### Practice Datasets
-
-### Basic Deliverables
+### Day 0 
+- Set groups (no more than 4)
 - Agree on stand up time
 - Setup Kanban
+- Determine Breakdown of tasks into tickets
+- Attempt Scope (what question are you trying to answer?)
+
+### Basic Deliverables
 - Perform 10 stand ups
 - Perform a Retrospective and Steps for Sprint 6
-- Attempt Scope (what question are you trying to answer?)
-- Decide on Proof of Concept
 
-### Stretch Goals
+### Example Deliverables Goals
 * Automated Analysis pipeline
 * Proof of concept
 * Find me a research paper with proxy data and apply it to a novel dataset
@@ -56,7 +56,6 @@ Sprint Points Breakdown
 ### Basic Deliverables
 * Perform 10 stand ups
 * Perform a Kickoff and Retrospective and Steps for Sprint 7
-* Deliver Proof of Concept
 
 ## Sprint 7 (20 NOV - 29 NOV)
 
