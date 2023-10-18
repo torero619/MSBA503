@@ -46,7 +46,7 @@ Sprint Points Breakdown
 ### Example Deliverables Goals
 * Automated Analysis pipeline
 * Proof of concept
-* Find me a research paper with proxy data and apply it to a novel dataset
+* Find me a research paper/blog post with proxy data and apply it to a novel dataset
 
 ### Datasets & Tooling
 * EDA using Power BI or Tableau
