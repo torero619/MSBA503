@@ -23,7 +23,8 @@ About this course
 
 Sprint Points Breakdown
 - Attendance = +25pts
-- Demo/Test Day = +75pts
+- Check In = +25pts
+- Demo/Test Day = +50pts
 - Kickoff = +50pts
 - Retrospective = +50pts
 - Tickets = +50pts
