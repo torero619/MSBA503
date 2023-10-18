@@ -35,18 +35,21 @@ Sprint Points Breakdown
 - Set groups (no more than 4)
 - Setup Kanban and invite team members (and Fred)
 - Agree on stand up time
-- Agree on rotation of facilitator
+- Agree on rotation of facilitator, notetaker, timekeeper
 - Determine Breakdown of tasks into tickets
 - Attempt Scope (what question are you trying to answer?)
 
 ### Basic Deliverables
 - Perform 10 stand ups
-- Perform a Retrospective and Steps for Sprint 6
+- Deliver Kickoff and Retrospective Document
+- Deliver Next Steps for Sprint 6
+- Deliver One-Pager
+- Deliver Workproducts
 - Close Tickets
 
-### Example Deliverables Goals
+### Example Workproducts
+* Proof of Concept
 * Automated Analysis pipeline
-* Proof of concept
 * Find me a research paper/blog post with proxy data and apply it to a novel dataset
 
 ### Datasets & Tooling
@@ -59,15 +62,21 @@ Sprint Points Breakdown
 
 ### Basic Deliverables
 * Perform 10 stand ups
-* Perform a Kickoff and Retrospective and Steps for Sprint 7
+* Deliver Kickoff and Retrospective Document
+* Deliver Next Steps for Sprint 7
+* Deliver New/Updated One-Pager
+* Deliver New/Updated Workproducts
 * Close Tickets
 
 ## Sprint 7 (20 NOV - 29 NOV)
 
 ### Basic Deliverables
 * Perform 10 stand ups
-* Perform a Kickoff and Retrospective and Steps for Sprint 8
-* Improve on Proof of Concept
+* Deliver Kickoff and Retrospective Document
+* Deliver Next Steps for Sprint 8
+* Deliver New/Updated One-Pager
+* Deliver New/Updated Workproducts
+* Close Tickets
 
 ### Stretch Goals
 
@@ -75,8 +84,11 @@ Sprint Points Breakdown
 
 ### Basic Deliverables
 - Perform 10 stand ups
+- Deliver Kickoff and Retrospective Document
+- Deliver Six-Pager
+- Deliver New/Updated Workproducts
 - Close Tickets
-- Amazon Style 6 pager
+
 
 ### Stretch Goals
 
