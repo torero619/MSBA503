@@ -27,17 +27,17 @@ Sprint Points Breakdown
 - Demo/Test Day = +50pts
 - Kickoff = +50pts
 - Retrospective = +50pts
-- Tickets = +50pts
+- Tickets/Workproducts = +50pts
 
 ## Sprint 5 (23 OCT - 01 NOV)
 
 ### Day 0 
 - Set groups (no more than 4)
-- Setup Kanban and invite team members (and Fred)
 - Agree on stand up time
 - Agree on rotation of facilitator, notetaker, timekeeper
 - Determine Breakdown of tasks into tickets
 - Attempt Scope (what question are you trying to answer?)
+- Setup Kanban and invite team members (and Fred)
 
 ### Basic Deliverables
 - Perform 10 stand ups
