@@ -40,7 +40,7 @@ Sprint Points Breakdown
 - Setup Kanban and invite team members (and Fred)
 
 ### Basic Deliverables
-- Perform 10 stand ups
+- Perform 6 stand ups
 - Deliver Kickoff and Retrospective Document
 - Deliver Next Steps for Sprint 6
 - Deliver One-Pager
