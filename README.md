@@ -27,7 +27,7 @@ Sprint Points Breakdown
 - Demo/Test Day = +50pts
 - Kickoff = +50pts
 - Retrospective = +50pts
-- Tickets/Workproducts = +50pts
+- Deliverables/Tickets/Workproducts = +50pts
 
 ## Sprint 5 (23 OCT - 01 NOV)
 
