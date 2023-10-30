@@ -40,7 +40,7 @@ Sprint Points Breakdown
 - Setup Kanban and invite team members (and Fred)
 
 ### Basic Deliverables
-- Perform 6 stand ups
+- Perform 6 stand ups with accompanying documents
 - Deliver Kickoff and Retrospective Document
 - Deliver Next Steps for Sprint 6
 - Deliver One-Pager
@@ -61,7 +61,7 @@ Sprint Points Breakdown
 ## Sprint 6 (06 NOV - 15 NOV)
 
 ### Basic Deliverables
-* Perform 6 stand ups
+* Perform 6 stand ups with accompanying documents
 * Deliver Kickoff and Retrospective Document
 * Deliver Next Steps for Sprint 7
 * Deliver New/Updated One-Pager
@@ -71,7 +71,7 @@ Sprint Points Breakdown
 ## Sprint 7 (20 NOV - 29 NOV)
 
 ### Basic Deliverables
-* Perform 6 stand ups
+* Perform 6 stand ups with accompanying documents
 * Deliver Kickoff and Retrospective Document
 * Deliver Next Steps for Sprint 8
 * Deliver New/Updated One-Pager
@@ -83,7 +83,7 @@ Sprint Points Breakdown
 ## Sprint 8 (04 DEC - 11 DEC)
 
 ### Basic Deliverables
-- Perform 10 stand ups
+- Perform 6 stand ups with accompanying documents
 - Deliver Kickoff and Retrospective Document
 - Deliver Six-Pager
 - Deliver New/Updated Workproducts
