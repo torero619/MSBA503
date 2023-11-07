@@ -25,7 +25,8 @@ Sprint Points Breakdown
 
 - Check In = +25pts
 - Demo/Test Day = +50pts
-- Deliverables/Tickets/Workproducts = +100pts
+- Deliverables/Workproducts = +50pts
+- Kanban Tickets = +50pts
 - Kickoff/Retrospective = +50pts
 - Attendance = +25pts
 
