@@ -46,7 +46,7 @@ Sprint Points Breakdown
 - Deliver Next Steps for Sprint 6
 - Deliver One-Pager
 - Deliver Workproducts
-- Close Tickets
+- Organized/Updated Kanban
 
 ### Example Workproducts
 * Proof of Concept
@@ -67,7 +67,7 @@ Sprint Points Breakdown
 * Deliver Next Steps for Sprint 7
 * Deliver New/Updated One-Pager
 * Deliver New/Updated Workproducts
-* Close Tickets
+* Organized/Updated Kanban
 
 ## Sprint 7 (20 NOV - 29 NOV)
 
@@ -77,7 +77,7 @@ Sprint Points Breakdown
 * Deliver Next Steps for Sprint 8
 * Deliver New/Updated One-Pager
 * Deliver New/Updated Workproducts
-* Close Tickets
+* Organized/Updated Kanban
 
 ### Stretch Goals
 
@@ -88,7 +88,7 @@ Sprint Points Breakdown
 - Deliver Kickoff and Retrospective Document
 - Deliver Six-Pager
 - Deliver New/Updated Workproducts
-- Close Tickets
+- Organized/Updated Kanban
 
 
 ### Stretch Goals
